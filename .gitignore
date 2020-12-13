@@ -16,4 +16,4 @@
 ###< symfony/phpunit-bridge ###
 
 ###composer.lock
-/composer.lock
+/.composer.lock
